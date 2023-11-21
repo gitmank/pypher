@@ -1,5 +1,5 @@
 import typer
-import utilities
+import pypher.utilities as utilities
 
 app = typer.Typer()
 decoder = typer.Typer()
